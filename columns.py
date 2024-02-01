@@ -1,11 +1,11 @@
 # This program displays the following numbers
 # in two columns.
-num1 = 127.899
-num2 = 3465.148
+num1 = 127.89
+num2 = 3465.14
 num3 = 3.776
 num4 = 264.821
 num5 = 88.081
-num6 = 799.999
+num6 = 799.99
 
 # Each number is displayed in a field of 10 spaces
 # and rounded to 2 decimal places.
